@@ -1,0 +1,13 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "jarvis, surely you know what that is",
+  "main": "index.js",
+  "repository": "https://github.com/yamboy1/jarvis",
+  "author": "Yamboy1 <yamboyd1@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
